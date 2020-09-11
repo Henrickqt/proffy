@@ -4,7 +4,7 @@ Project for educational purposes, serving as a connecting platform between peopl
 
 This project uses Node.js, ReactJS, ReactNative and TypeScript, and it was developed during the NLW #2 of the [RocketSeat](https://rocketseat.com.br/) team.
 
-!img ......................
+![](https://github.com/Henrickqt/proffy/blob/master/assets/proffy.jpg)
 
 ## Server (Backend)
 
